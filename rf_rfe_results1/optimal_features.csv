@@ -1,0 +1,16 @@
+Feature,IsOptimal
+J,True
+I,True
+TinH2,True
+ToutH2,True
+ToutAIR,True
+TinWAT,True
+ToutWAT,True
+PinAIR,True
+PoutAIR,True
+PinH2,True
+DoutH2,True
+DinAIR,True
+DoutAIR,True
+DWAT,True
+HrAIRFC,True

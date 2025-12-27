@@ -1,0 +1,19 @@
+Feature,Ranking
+J (A/cm²),18
+ToutH2 (°C),17
+TinAIR (°C),16
+TinH2 (°C),15
+ToutAIR (°C),14
+DWAT (l/mn),13
+HrAIRFC (%),12
+DoutAIR (l/mn),11
+PoutAIR (mbara),10
+TinWAT (°C),9
+ToutWAT (°C),8
+DinH2 (l/mn),7
+I (A),6
+DoutH2 (l/mn),5
+PinH2 (mbara),4
+DinAIR (l/mn),3
+PinAIR (mbara),2
+PoutH2 (mbara),1

@@ -1,0 +1,16 @@
+Feature,IsOptimal
+J (A/cm²),True
+I (A),True
+TinH2 (°C),True
+ToutH2 (°C),True
+TinAIR (°C),True
+ToutAIR (°C),True
+TinWAT (°C),True
+ToutWAT (°C),True
+PoutAIR (mbara),True
+PinH2 (mbara),True
+DinH2 (l/mn),True
+DoutH2 (l/mn),True
+DoutAIR (l/mn),True
+DWAT (l/mn),True
+HrAIRFC (%),True

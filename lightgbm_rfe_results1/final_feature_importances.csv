@@ -1,0 +1,17 @@
+Feature,Importance
+DoutAIR (l/mn),223
+J (A/cm²),131
+DWAT (l/mn),111
+PoutAIR (mbara),100
+TinH2 (°C),82
+PinAIR (mbara),80
+DoutH2 (l/mn),77
+TinWAT (°C),74
+ToutH2 (°C),72
+PoutH2 (mbara),58
+ToutAIR (°C),56
+DinAIR (l/mn),55
+TinAIR (°C),46
+DinH2 (l/mn),43
+ToutWAT (°C),40
+HrAIRFC (%),40
